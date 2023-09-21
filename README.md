@@ -37,8 +37,12 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/jaypatel0112/and101-project2-starter/blob/main/Project2_HelloWorld.gif' title='Hello World' width='' alt='Video Demo' />
+<img src='https://github.com/jaypatel0112/and101-project2-starter/blob/main/Project2_Add.gif' title='2 + 2' width='' alt='Video Demo' />
+<img src='https://github.com/jaypatel0112/and101-project2-starter/blob/main/Project2_CurrentDay.gif' title='Current Day' width='' alt='Video Demo' />
+<img src='https://github.com/jaypatel0112/and101-project2-starter/blob/main/Project2_RandomColor.gif' title='Random Color' width='' alt='Video Demo' />
+<img src='https://github.com/jaypatel0112/and101-project2-starter/blob/main/Project2_PrintList.gif' title='Print List' width='' alt='Video Demo' />
+<img src='https://github.com/jaypatel0112/and101-project2-starter/blob/main/Project2_FavouriteNum.gif' title='Favorite Number' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
@@ -49,11 +53,11 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+Got to know about the few concept of the kotlin language which includes for loop, if else, function and many more.
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Jay Patel**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
