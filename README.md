@@ -32,7 +32,8 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [-] List anything else that you added to improve the app!
+- [x] List anything else that you added to improve the app!
+  We can give an effect when message pop's up!
 
 ## Video Demo
 
